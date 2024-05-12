@@ -1,0 +1,7 @@
+{text}
+---------
+The size of one fact should not exceed one paragraph, one or two sentences will be enough.
+You need to take text as input, extract key facts from it and return a response.
+Your response should be a markdown list, eg: `- foo\n- bar\n- baz`
+Do not translate the facts, use the language in which this document is written.
+Above is the text you need to process.
