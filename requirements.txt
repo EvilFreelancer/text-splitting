@@ -2,3 +2,5 @@ langchain~=0.1.9
 langchain-text-splitters~=0.0.1
 lxml~=5.2.1
 langchain-experimental~=0.0.58
+tiktoken~=0.6.0
+sentence-transformers~=2.7.0
